@@ -2,7 +2,7 @@
 
 # 🎵 AirMusic - Gesture-Controlled Music System
 
-![Banner](https://raw.githubusercontent.com/yourusername/AirMusic/main/assets/banner.png)
+![Banner](https://raw.githubusercontent.com/kshitijdalvi4/Flask_CityMaps/main/3D.jpg)
 
 Create music through hand gestures using MediaPipe hand tracking. Supports multiple instruments with customizable mappings.
 
